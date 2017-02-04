@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agricola 2P Counter</string>
+
+    <string name="jugador1">Player 1</string>
+    <string name="jugador2">Player 2</string>
+    <string name="cerdos">Pigs</string>
+    <string name="ovejas">Sheeps</string>
+    <string name="vacas">Cows</string>
+    <string name="caballos">Horses</string>
+    <string name="extras">Extra Points</string>
+    <string name="otros">More</string>
+    <string name="ampliaciones">Added</string>
+    <string name="edificios">Buildings</string>
+    <string name="gana">Winner: </string>
+    <string name="empate">DRAW</string>
+    <string name="total">TOTAL</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="valorInicial">0</string>
+
+    <string name="aceptar">OK</string>
+    <string name="cancelar">Cancel</string>
+    <string name="nombre_titulo">Name Change</string>
+    <string name="nombre">Name: </string>
+
+    <string name="creditos">Credits</string>
+	<string name="detalle_creditos">
+	    Developer: David Asensio - @dasensio13
+		\nGame: Agricola: All Creatures Big and Small
+	    \nGame Designer: Uwe Rosenberg
+		\nYear Published: 2012
+		\nBGG: http://www.boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small
+		\n\n\nVersion 0.1 - 02/11/2012
+	    \n* Beta Development phase
+	    \n\n* Future options:
+	    \n\t- Better expansion points introduction
+	    \n\t- Better building points introduction
+	    \n\t- Better design for info and credits
+	</string>
+
+    <string name="instrucciones">About</string>
+	<string name="detalle_instrucciones">
+	    * Yo can change player names by selecting them.
+	    \n\n* You must calculate the buildings and expansion points manually.
+	    \n\n* You must click on CALCULATE to update extra points, total and winner.
+	</string>
+</resources>
